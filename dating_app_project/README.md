@@ -15,7 +15,7 @@
 
 # 3. Vidualization: 경쟁지표생성
 - weighted log odds ratio (참고자료: https://bookdown.org/ahn_media/bookdown-demo/anal2comp.html)
-- 위의 지표에서 착안하여 각 토픽 카테고리가 부정에 긍정에 얼마나 등장하는지를 수식으로 수치화
+- 위의 지표에서 착안하여 각 토픽 카테고리 별 부정, 긍정 리뷰가 얼마나 등장하는지를 수식으로 수치화
 - log odds rario: log(topic별 긍정 리뷰 수/ topic별 부정 리뷰 수)
 - weighted: sigmoid(0.5가 중간값이면서 0~1 사이의 값으로 수렴)_ 원래 문헌에 따르면 stardscaler를 적용했었으나 본 프로젝트에서는 변경하였음.
 - but! 토픽량(중요도)을 반영해주지 않으므로 시각화시킬때 다른 방법이 필요해보임.
