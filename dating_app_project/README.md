@@ -1,7 +1,7 @@
 # 데이팅 어플 대표 3사 비교: google play store 리뷰를 중심으로
 - 해당 프로젝트는 대학원 수업시간에 제출했던 미니 프로젝트입니다.
 - 데이팅 어플 대표적 3사(Tinder, Bumble, Hinge)의 google play store 리뷰 데이터를 이용하여 경쟁사 분석을 하는 것이 본 프로젝트의 목표입니다.
-- 코드 분석 파일 순서: clustering /감정분석(Vader) --> 토픽정의 --> vidualization /insight
+- 코드 분석 파일 순서: clustering /감정분석(Vader) --> 토픽정의 --> vidualization
 
 # 1. Clustering + 토픽정의
 - 데이터 사이즈가 컸기 때문에 클러스터링은 총 2번 진행(관련 논문들을 확인해보니 보통 2번 클러스터링 과정을 거치는 듯). 
