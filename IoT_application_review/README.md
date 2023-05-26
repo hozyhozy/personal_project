@@ -7,6 +7,4 @@
 - SNA (Social Network Analysis): UCINET 사용
 - Doc2vec
 
-- 논문이라고 하기에는 리포트 느낌이 나지만.. 처음 데이터 분석에 흥미를 느끼게 해준 논문이다
-
 
